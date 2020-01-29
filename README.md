@@ -1,2 +1,3 @@
 # MesajBot
-MessageBot Plugin For PocketMine &amp; Altay 1.14x
+
+Kısaltmasını yazdığınız kelimeleri tamamlar ve gönderir.
