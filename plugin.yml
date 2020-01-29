@@ -1,0 +1,5 @@
+name: MesajBot
+version: 1.0
+main: MertAyhan00\MesajBot\Main
+api: 3.11.3
+author: Mert Ayhan
